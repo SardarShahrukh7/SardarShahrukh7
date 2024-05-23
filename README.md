@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 
 
 <img align="right" height="192" width = "290" src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif"  />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SardarShahrukh7&" alt="tans1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SardarShahrukh7&" alt="Sardarshahrukh7" /></p>
 
 
