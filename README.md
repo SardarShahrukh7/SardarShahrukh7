@@ -40,4 +40,10 @@ Here are some ideas to get you started:
 <img align="right" height="192" width = "290" src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif"  />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SardarShahrukh7&" alt="Sardarshahrukh7" /></p>
 
+## My Skills
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,firebase,aws,npm,netlify,mongodb,postgres,nestjs,postman,github,git,prisma,redux,linux,materialui,tailwind,vercel,vite,vscode,webpack,graphql,html,css,bootstrap,scss)](https://skillicons.dev)
+
+###
+
+<br clear="both">
