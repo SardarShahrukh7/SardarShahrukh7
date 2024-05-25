@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,firebase,aws,npm,netlify,mongodb,postgres,nestjs,postman,github,git,prisma,redux,linux,materialui,tailwind,vercel,vite,vscode,webpack,graphql,html,css,bootstrap,scss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,firebase,aws,npm,php,netlify,mongodb,postgres,nestjs,postman,github,git,prisma,redux,linux,materialui,tailwind,vercel,vite,vscode,webpack,graphql,html,css,bootstrap,scss)](https://skillicons.dev)
 
 ###
 
