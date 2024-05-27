@@ -47,3 +47,11 @@ Here are some ideas to get you started:
 ###
 
 <br clear="both">
+
+## 📊 GitHub Statistics:
+
+| GitHub Stats | GitHub Streak | Top Languages |
+| --- | --- | --- |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SardarShahrukh7&theme=radical&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SardarShahrukh7&theme=radical&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SardarShahrukh7&theme=radical&hide_border=false&layout=compact) |
+
+
