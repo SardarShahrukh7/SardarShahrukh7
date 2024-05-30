@@ -13,6 +13,19 @@
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23007396.svg?style=flat&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
