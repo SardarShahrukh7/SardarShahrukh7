@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+<p align="center"> <a href="https://github.com/ammarjussa"><img src="https://github-profile-trophy.vercel.app/?username=ammarjussa&theme=monokai" alt="ammarjussa" /></a> </p>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
