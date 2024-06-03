@@ -95,11 +95,6 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-## 📊 GitHub Statistics:
-
-| GitHub Stats | GitHub Streak | Top Languages |
-| --- | --- | --- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SardarShahrukh7&theme=radical&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SardarShahrukh7&theme=radical&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SardarShahrukh7&theme=radical&hide_border=false&layout=compact) |
 
 
 
@@ -120,6 +115,29 @@ Here are some ideas to get you started:
 
 
 
+``` python
+class SoftwareEngineer :
+	def __init__(self):
+	    self.name = "Tofik Abdu"
+	    self.about = """Dedicated Software Engineer and passionate about learning new things
+			    and interested in competitive programming.I have been in touch with coding for many years."""
+	def getSkills(self):
+		return {
+			"frontend" : "ReactJs,Redux,Tailwind,Bootstrap,FramerMotion,Emotion,JS,",
+			"backend" : "NodeJs, ExpressJs, NestJs,ASP.NET CORE",
+			"mobile" : "Flutter, Dart",
+			"database" : "MongoDb,MysqlDb,PostgresqlDb,Hive",
+			"programming language" : "Python, Java, JavaScript, TypeScript,Dart,C#"
+			"tools and tech" : "Jira,Confluence,Slack,git,Postman,Vs-code",
+			"architecture" : "Clean Architecture, MVC"
+		}
+	def getAddress(self):
+		return {
+			"mail" : "tofikabdu2002@gmail.com",
+			"linkedIn" : "https://www.linkedin.com/in/tofik-abdu/",
+			"telegram" : "https://t.me/tan_nat"
+		}
+ ```
 
 
 
