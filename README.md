@@ -121,25 +121,20 @@ Here are some ideas to get you started:
 ``` python
 class SoftwareEngineer :
 	def __init__(self):
-	    self.name = "Tofik Abdu"
+	    self.name = "Sardar Shahrukh"
 	    self.about = """Dedicated Software Engineer and passionate about learning new things
 			    and interested in competitive programming.I have been in touch with coding for many years."""
 	def getSkills(self):
 		return {
-			"frontend" : "ReactJs,Redux,Tailwind,Bootstrap,FramerMotion,Emotion,JS,",
-			"backend" : "NodeJs, ExpressJs, NestJs,ASP.NET CORE",
-			"mobile" : "Flutter, Dart",
-			"database" : "MongoDb,MysqlDb,PostgresqlDb,Hive",
-			"programming language" : "Python, Java, JavaScript, TypeScript,Dart,C#"
-			"tools and tech" : "Jira,Confluence,Slack,git,Postman,Vs-code",
-			"architecture" : "Clean Architecture, MVC"
+			 "frontend" : "ReactJs,Redux,Angular,Tailwind,Bootstrap,Html,CSS,",
+			 "backend" :  "NodeJs, ExpressJs, NestJs, ASP.NET Core, Laravel, CodeIgniter",
+			 "mobile" : "Flutter, Dart",
+			 "programming_languages": "Php, JavaScript, TypeScript, PHP, C, C++, Go, Rust",
+                         "tools_and_tech": "Jira, Confluence, Slack, Git, Postman, VS Code, Docker, Kubernetes, AWS, GCP",
+                         "architecture": "Clean Architecture, MVC, Microservices",
+                         "testing_libraries": "Selenium, React Testing Library, Pytest, Playwright, Cypress"
 		}
-	def getAddress(self):
-		return {
-			"mail" : "tofikabdu2002@gmail.com",
-			"linkedIn" : "https://www.linkedin.com/in/tofik-abdu/",
-			"telegram" : "https://t.me/tan_nat"
-		}
+
  ```
 
 
